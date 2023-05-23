@@ -1,0 +1,12 @@
+{
+  "name": "message-loopback",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "azure-iothub": "^1.16.2"
+  }
+}
